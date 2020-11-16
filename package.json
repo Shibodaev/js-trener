@@ -1,0 +1,36 @@
+{
+  "name": "js-trener-2",
+  "version": "0.0.1",
+  "description": "My test",
+  "main": "webpack.config.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shibodaev/js-trener.git"
+  },
+  "keywords": [
+    "Webpack/JavaScript/Test"
+  ],
+  "author": "Shibodaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shibodaev/js-trener/issues"
+  },
+  "homepage": "https://github.com/Shibodaev/js-trener#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "css-loader": "^5.0.1",
+    "style-loader": "^2.0.0"
+  }
+}
