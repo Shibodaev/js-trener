@@ -1,13 +1,13 @@
 {
-  "name": "js-trener-2",
+  "name": "js-trener",
   "version": "0.0.1",
   "description": "My test",
-  "main": "webpack.config.js",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --mode development --watch",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "start:dev": "webpack-dev-server  --open"
   },
   "repository": {
     "type": "git",
@@ -26,11 +26,16 @@
     "clean-webpack-plugin": "^3.0.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.0",
+    "path": "^0.12.7",
     "webpack": "^4.44.2",
-    "webpack-cli": "^4.2.0"
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "css-loader": "^5.0.1",
-    "style-loader": "^2.0.0"
+    "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1",
+    "style-loader": "^2.0.0",
+    "yargs-config": "^1.1.2"
   }
 }

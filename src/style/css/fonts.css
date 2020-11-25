@@ -6,7 +6,7 @@
     font-weight: 400;
 }
 @font-face {
-    font-family: "Roboto";
+    font-family: "Roboto-Bold";
     src: local("Roboto-Bold"),
     url('../../assets/fonts/Roboto-Bold.woff') format('woff'),
     url('../../assets/fonts/Roboto-Bold.woff2') format('woff2');
