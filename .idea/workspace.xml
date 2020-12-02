@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6a9af4-8341-4a19-8dd3-dc9e240491c7" name="Default Changelist" comment="">
+    <list default="true" id="5c6aa69c-9455-4228-8cf6-5938b4eac801" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/31012f9b3e3da44f87e842e419bc267a.woff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/3f2cbde6b72e8d05669fb048b5ebc20f.woff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/6cd35edfbc0d7a41713109d9162a0ffc.woff2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/a25806274237d06e00a6888155519b98.woff2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.efb60aa868eb27647eda.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.bebb908e78d43a7a3b38.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors~main.1d861c2b23ffb3eb454a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Roboto-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Roboto-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Chrysanthemum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Desert.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/Hydrangeas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +57,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="dev" />
-                    <option name="lastUsedInstant" value="1605562751" />
+                    <option name="lastUsedInstant" value="1606947103" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="book-js-ninja" />
-                    <option name="lastUsedInstant" value="1605562750" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1606947050" />
                   </RecentBranch>
                 </list>
               </option>
@@ -55,7 +72,7 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="ProjectId" id="1kNzqNGp8IU9XzJnzBhww9vj3cd" />
+  <component name="ProjectId" id="1l7TBvrGHsvL6Q23k3AzOg9lZJm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,43 +81,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\myprojects\js-trener\src\assets" />
-      <recent name="D:\myprojects\js-trener" />
-    </key>
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7e6a9af4-8341-4a19-8dd3-dc9e240491c7" name="Default Changelist" comment="" />
-      <created>1605556026927</created>
+      <changelist id="5c6aa69c-9455-4228-8cf6-5938b4eac801" name="Default Changelist" comment="" />
+      <created>1606946997921</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605556026927</updated>
-      <workItem from="1605556028434" duration="8150000" />
-      <workItem from="1605589180166" duration="27000" />
-      <workItem from="1605725344799" duration="4787000" />
-      <workItem from="1605730818377" duration="1976000" />
-      <workItem from="1605733100191" duration="236000" />
-      <workItem from="1605733987114" duration="1083000" />
-      <workItem from="1605735798479" duration="2113000" />
-      <workItem from="1605738371921" duration="374000" />
-      <workItem from="1605760927692" duration="91000" />
-      <workItem from="1606076719422" duration="599000" />
-      <workItem from="1606107363774" duration="657000" />
-      <workItem from="1606337936847" duration="2608000" />
+      <updated>1606946997921</updated>
+      <workItem from="1606947002090" duration="926000" />
     </task>
     <servers />
   </component>
@@ -108,25 +101,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="278" key="FileChooserDialogImpl" timestamp="1606108129765">
+    <state x="642" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1606948136191">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="739" y="278" key="FileChooserDialogImpl/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1606108129765" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1605562424531">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1605562424531" />
-    <state x="655" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1606107398392">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="655" y="347" key="com.intellij.ide.util.TipDialog/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1606107398392" />
-    <state x="656" y="257" width="607" height="536" key="find.popup" timestamp="1605731344622">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="656" y="257" width="607" height="536" key="find.popup/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1605731344622" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606338967405">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1606338967405" />
+    <state x="642" y="347" key="com.intellij.ide.util.TipDialog/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1606948136191" />
   </component>
 </project>
