@@ -1,20 +1,31 @@
 @import "~normalize.css";
 @import "./fonts";
+
 body {
-  background-color: bisque;
   font-size: 16px;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
-
+  overflow: hidden;
 }
-h1,h2,h3,h4,h5,h6 {
+
+* {
+  text-decoration: none;
+  outline: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   font-family: 'Roboto-Bold', sans-serif;
 }
+
 .container {
   position: relative;
   width: 100%;
-  padding: 0 15px;
   max-width: 1230px;
   margin: 0 auto;
 }
+
+

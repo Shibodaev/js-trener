@@ -41,7 +41,7 @@ module.exports = {
             {
                 test: /\.(sa|sc|c)ss$/,  /* Через регулярное выражение говорю какие импорты в  js обрабатывать */
                 use: [
-                    devMode ? 'style-loader' : MiniCssExtractPlugin.loader,
+                    devMode ? 'style-loader' : MiniCssExtractPlugin,
                     'css-loader',
                     'sass-loader',
                 ], /* Лоадеры предварительно надо уствновить, webpack обрабатывает с право на лево то есть 1.css-loader 2.style-loader */
