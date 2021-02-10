@@ -1,3 +1,7 @@
+// import myScripts from './js/index';
+import './style/scss/main.scss';
+
+
 import * as THREE from 'three';
 
 const scene = new THREE.Scene();
