@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6a9af4-8341-4a19-8dd3-dc9e240491c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/js/todo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/31012f9b3e3da44f87e842e419bc267a.woff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/3f2cbde6b72e8d05669fb048b5ebc20f.woff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/6cd35edfbc0d7a41713109d9162a0ffc.woff2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/a25806274237d06e00a6888155519b98.woff2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.efb60aa868eb27647eda.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.bebb908e78d43a7a3b38.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors~main.1d861c2b23ffb3eb454a.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +20,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -39,12 +35,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="dev" />
-                    <option name="lastUsedInstant" value="1605562751" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="book-js-ninja" />
-                    <option name="lastUsedInstant" value="1605562750" />
+                    <option name="branchName" value="ninja-js" />
+                    <option name="lastUsedInstant" value="1615061881" />
                   </RecentBranch>
                 </list>
               </option>
@@ -56,12 +48,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1kNzqNGp8IU9XzJnzBhww9vj3cd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -72,6 +65,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -79,6 +73,24 @@
       <recent name="D:\myprojects\js-trener" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,28 +117,18 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="739" y="278" key="FileChooserDialogImpl" timestamp="1606108129765">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="739" y="278" key="FileChooserDialogImpl/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1606108129765" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1605562424531">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1605562424531" />
-    <state x="655" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1606107398392">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="655" y="347" key="com.intellij.ide.util.TipDialog/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1606107398392" />
-    <state x="656" y="257" width="607" height="536" key="find.popup" timestamp="1605731344622">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="656" y="257" width="607" height="536" key="find.popup/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1605731344622" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606338967405">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1280.0.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1606338967405" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
