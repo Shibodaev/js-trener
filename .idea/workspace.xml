@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6a9af4-8341-4a19-8dd3-dc9e240491c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/todo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/31012f9b3e3da44f87e842e419bc267a.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/3f2cbde6b72e8d05669fb048b5ebc20f.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/6cd35edfbc0d7a41713109d9162a0ffc.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/a25806274237d06e00a6888155519b98.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.bebb908e78d43a7a3b38.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/vendors~main.1d861c2b23ffb3eb454a.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
